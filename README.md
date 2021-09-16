@@ -18,7 +18,7 @@ Cyborg is able to answer queries of the following type:
 
 
 
-<img src="screenshot.jpeg" alt="chat" style="zoom:75%;" />
+
 
 
 
